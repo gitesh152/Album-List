@@ -1,6 +1,6 @@
 # ALBUM_LIST
 
-It's a ALBUM LIST APP in react, it fetches albums from fakeserver.
+It's a ALBUM LIST APP fetching data using API and developed in ReactJS, it fetches albums from fakeserver API.
 
 ## Authors
 
